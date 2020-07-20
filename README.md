@@ -1,2 +1,2 @@
 # data_science_tasks
-A repository of some data science task (basic - advanced) 
+A repository of some data science task (Hamoye) 
